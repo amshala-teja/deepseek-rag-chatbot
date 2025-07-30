@@ -32,7 +32,7 @@ You can install and run **Sai Teja's RAG Chatbot** in one of two ways:
 
 ### **1️⃣ Traditional (Python/venv) Installation**
 ```bash
-git clone https://github.com/saitejaamshala/deepseek-rag-chatbot.git
+git clone https://github.com/amshala-teja/deepseek-rag-chatbot.git
 cd deepseek-rag-chatbot
 
 # Create and activate virtual environment
@@ -130,9 +130,6 @@ docker-compose up
 - Fork and submit PRs or issues  
 - Open to community feedback and contributions  
 - Let's build better local AI tools together!
-
----
-
 
 ---
 
