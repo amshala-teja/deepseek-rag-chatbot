@@ -133,9 +133,6 @@ docker-compose up
 
 ---
 
-## 💬 **Let’s Connect**
-
-Have suggestions or questions? Reach out via [Reddit](https://www.reddit.com/user/akhilpanja/), or fork the repo and start hacking!  
 
 ---
 
